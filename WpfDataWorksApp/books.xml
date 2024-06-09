@@ -1,0 +1,19 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<books>
+  <book>
+    <name>Anna Karenina</name>
+    <author>Leo Tolstoy</author>
+  </book>
+  <book>
+    <name>One Hundred Years of Solitude</name>
+    <author>Gabriel Garcia Marquez</author>
+  </book>
+  <book>
+    <name>The Great Gatsby</name>
+    <author>Scott Fitzgerald</author>
+  </book>
+  <book>
+    <name>Invisible Man</name>
+    <author>Ralph Ellison</author>
+  </book>
+</books>
